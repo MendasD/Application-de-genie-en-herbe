@@ -26,6 +26,8 @@ fichier_excel.close()
 
 #ajout inutile
 
+#Bonjour
+
 # Lecture du contenu d'une cellule spécifique
 #cellule = feuille['A1']  # Par exemple, lecture de la cellule A1
 # Afficher la valeur de la cellule
