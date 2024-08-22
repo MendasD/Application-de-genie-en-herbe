@@ -23,6 +23,8 @@ feuille = fichier_excel["data"]
 # Fermer le fichier Excel
 fichier_excel.close()
 
+#ajout inutile
+
 # Lecture du contenu d'une cellule spécifique
 #cellule = feuille['A1']  # Par exemple, lecture de la cellule A1
 # Afficher la valeur de la cellule
