@@ -17,6 +17,7 @@ verif_stop=FALSE
 # Ouverture du fichier Excel
 fichier_excel = openpyxl.load_workbook("infos.xlsx")
 
+#Je voudrais fais un commit
 # Sélection de la feuille contenant les paramètres (worksheet) par son nom
 feuille = fichier_excel["data"]
 
