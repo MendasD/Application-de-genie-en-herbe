@@ -17,16 +17,12 @@ verif_stop=FALSE
 # Ouverture du fichier Excel
 fichier_excel = openpyxl.load_workbook("infos.xlsx")
 
-#Je voudrais fais un commit bien d  ijzadbo"ndo"i"dbu"bd
 # Sélection de la feuille contenant les paramètres (worksheet) par son nom
 feuille = fichier_excel["data"]
 
 # Fermer le fichier Excel
 fichier_excel.close()
 
-#ajout inutile
-
-#Bonjour à qui ?
 
 # Lecture du contenu d'une cellule spécifique
 #cellule = feuille['A1']  # Par exemple, lecture de la cellule A1
